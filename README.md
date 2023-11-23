@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-yermachenko
 - 👀 I’m interested in programming, robotics, space, mountains, ski
-- 🌱 I’m currently learning WPF
+- 🌱 I’m currently learning Azure and Angular
 - 💞️ I’m looking to collaborate on C# development
 - 📫 How to reach me: my email is at google, user d.yermachenko, and spam robots pass its way
 
